@@ -7,6 +7,7 @@
 * Update some of furniture Salvage/Crafting section with linking to other furniture pieces.
 * Add Furniture ID.
 * Add Growing/Kitchen/Manufacturing category furniture list which are not owned by Player.
+* Add 404 page.
 
 # UPCOMMING
 
