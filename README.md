@@ -1,3 +1,5 @@
+![Ankea Logo](https://github.com/user-attachments/assets/0badb5d1-37d4-4af5-b600-f0279d6f9e1e)
+
 # ANKEA-Issues
 This is a public ANKEA website issue tracker, all reports, suggestions and updates end up here.
 
