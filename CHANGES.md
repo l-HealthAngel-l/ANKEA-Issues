@@ -1,5 +1,6 @@
 # PLANNED
 
+* Change "One Stop Store" into "One Stop Shop" in all furniture pages.
 * Add Small Letters to Letters category.
 * Update whole catalogue to match V0.4.02 Obenseuer player obtainable furniture list and information.
 * Update the found in tenement quantity values in the Licence Plates category (Missing Research).
@@ -11,7 +12,8 @@
 
 # UPCOMMING
 
-* -
+* Change "One Stop Store" into "One Stop Shop" in all furniture pages.
+* Add 404 page.
 
 # 2025 February 9th (Version 0.0.1)
 
