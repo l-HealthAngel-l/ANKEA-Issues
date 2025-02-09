@@ -1,5 +1,6 @@
 # PLANNED
 
+* Add Small Letters to Letters category.
 * Update whole catalogue to match V0.4.02 Obenseuer player obtainable furniture list and information.
 * Update the found in tenement quantity values in the Licence Plates category (Missing Research).
 * Update whole catalogue in distributors section OS Mining Services which are sold which are not (Missing Research).
