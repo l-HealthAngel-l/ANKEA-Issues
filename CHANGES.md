@@ -14,6 +14,16 @@
 * Change "One Stop Store" into "One Stop Shop" in all furniture pages.
 * Add 404 page.
 
+
+# 2026 January 20th (Version 0.0.2)
+
+* Updated Bathroom category to match current game version (0.4.17).
+* Added Makeshift Shower.
+* Added Towel Stack.
+* Changed menu and showcase image of Plastic Barrel Shower.
+* Changed menu and showcase image and added additionally second image of Toilet Paper Holder.
+* Changed in all Bathroom furniture pages "One Stop Store" into "One Stop Shop"
+
 # 2025 February 9th (Version 0.0.1)
 
 Official first release of the website, containing 476 registered furniture pieces.
