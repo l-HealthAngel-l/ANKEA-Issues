@@ -17,6 +17,8 @@
 # 2026 January 24th (Version 0.0.3)
 
 * Changed in all Beds category furniture pages "One Stop Store" into "One Stop Shop"
+* Updated Plank Bed production section.
+* Updated Shabby Bed Frame information.
 
 # 2026 January 20th (Version 0.0.2)
 
