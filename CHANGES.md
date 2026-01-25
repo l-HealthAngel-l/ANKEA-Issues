@@ -16,7 +16,7 @@
 
 # 2026 January 24th (Version 0.0.3)
 
-* Updated in all Beds category furniture pages "One Stop Store" into "One Stop Shop"
+* Changed in all Beds category furniture pages "One Stop Store" into "One Stop Shop"
 
 # 2026 January 20th (Version 0.0.2)
 
