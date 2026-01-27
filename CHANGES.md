@@ -14,6 +14,27 @@
 * Add illustrasion to 404 and Spoiler Alert pages.
 
 
+# 2026 January 27th (Version 0.0.5)
+
+* Removed White Plate from Clutter category page. (Developers made into item)
+* Added Binder.
+* Added Drying Rack.
+* Added Empty Case of Osmo Olut.
+* Added Napkin Dispenser.
+* Added Large Old Folder Piles.
+* Added Paper Stack.
+* Added Paper Towel Holder.
+* Added Pen Holder.
+* Added Pencil.
+* Added Water Cooler.
+* Added Watering Can.
+* Changed menu and showcase image of Darts.
+* Updated Pappa - Tunturi Moped menu and page images, added additional variants.
+* Updated Beer Crate production section.
+* Updated Metal Chain production section.
+* Updated Clutter category to match current game version (0.4.17).
+* Changed in all Clutter category furniture pages "One Stop Store" into "One Stop Shop"
+
 # 2026 January 26th (Version 0.0.4)
 
 * Added Plants category.
