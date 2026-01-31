@@ -16,6 +16,26 @@
 * Add new upcoming distrubitor into page.
 
 
+# 2026 January 31st (Version 0.0.6)
+
+* Removed Guitar from Decoration category page. (Developers made into item)
+* Moved Big Quack! into Quest Furniture category.
+* Added Beryllium Reflector.
+* Added Blue Vase.
+* Added Flower Mirror.
+* Added Gift Box.
+* Added Green Placemat.
+* Added Large Blue Vase.
+* Added Plutonium Core.
+* Added Red Wall Mounted Bicycle.
+* Added White Vase.
+* Added Wooden Cross.
+* Updated Calendar page and added new variant to showcase.
+* Updated Bicycle production section.
+* Updated Green Vase details.
+* Updated Decoration category to match current game version (0.4.17).
+* Changed in all Decoration category furniture pages "One Stop Store" into "One Stop Shop"
+
 # 2026 January 27th (Version 0.0.5)
 
 * Removed White Plate from Clutter category page. (Developers made into item)
