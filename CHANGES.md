@@ -1,6 +1,5 @@
 # PLANNED
 
-* Add Small Letters to Letters category.
 * Update the found in tenement quantity values in the Licence Plates category (Missing Research).
 * Update whole catalogue in distributors section OS Mining Services which furniture pieces are sold which are not (Missing Research).
 * Update some of furniture Salvage/Crafting section with linking to other furniture pieces.
@@ -12,11 +11,23 @@
 * Change "One Stop Store" into "One Stop Shop" in all furniture pages.
 * Update whole catalogue to match V0.4.17 Obenseuer player obtainable furniture list and information.
 * Add illustrasion to 404 and Spoiler Alert pages.
-* Overhaul completely Curtains and Letters category pages.
+* Overhaul completely Letters category page.
 * Add new upcoming distrubitor into page.
 
 
-# 2026 January 31st (Version 0.0.6)
+# 2026 January 31st (Version 0.0.7)
+
+* Removed Brown Curtains.
+* Removed Open Small Red Curtains.
+* Removed Short Striped Curtains.
+* Removed Short Striped Curtains Wider.
+* Removed Striped Curtains.
+* Removed Wider Striped Curtains.
+* Added completely overhauled and new 25 curtains.
+* Added completely overhauled and new 25 short curtains.
+* Updated Curtains category to match current game version (0.4.17).
+
+# 2026 January 30th (Version 0.0.6)
 
 * Removed Guitar from Decoration category page. (Developers made into item)
 * Moved Big Quack! into Quest Furniture category.
