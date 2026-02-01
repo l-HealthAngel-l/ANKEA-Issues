@@ -14,6 +14,12 @@
 * Overhaul completely Letters category page.
 * Add new upcoming distrubitor into page.
 
+# 2026 February 1st (Version 0.0.8)
+
+* Updated Mini Generator details.
+* Changed menu and showcase image and added additionally second image of Old Computer.
+* Updated Electronics category to match current game version (0.4.17).
+* Changed in all Electronics category furniture pages "One Stop Store" into "One Stop Shop"
 
 # 2026 January 31st (Version 0.0.7)
 
