@@ -14,6 +14,16 @@
 * Overhaul completely Letters category page.
 * Add new upcoming distrubitor into page.
 
+
+# 2026 February 3rd (Version 0.0.9)
+
+* Added Oak Barrel.
+* Updated Blue Plastic Barrel Sink details.
+* Changed menu and showcase image of Red Barrel.
+* Changed menu and showcase image of Rusty Barrel.
+* Updated Tank category to match current game version (0.4.17).
+* Changed in all Tank category furniture pages "One Stop Store" into "One Stop Shop".
+
 # 2026 February 1st (Version 0.0.8)
 
 * Updated Mini Generator details.
@@ -29,8 +39,8 @@
 * Added Flag of the United States.
 * Added Flag of Ukraine.
 * Changed menu and showcase image of Flag of Stoland and updated details.
-* Updated Electronics and Flags category to match current game version (0.4.17).
-* Changed in all Electronics and Flags category furniture pages "One Stop Store" into "One Stop Shop"
+* Updated Electronics and Flags categories to match current game version (0.4.17).
+* Changed in all Electronics and Flags category furniture pages "One Stop Store" into "One Stop Shop".
 
 # 2026 January 31st (Version 0.0.7)
 
