@@ -14,9 +14,12 @@
 * Overhaul completely Letters category page.
 * Add new upcoming distrubitor into page.
 
+# 2026 February 4th (Version 0.1.0)
+* Updated Small Worn Rug production section.
+* Updated Rugs category to match current game version (0.4.17).
+* Changed in all Rugs category furniture pages "One Stop Store" into "One Stop Shop".
 
 # 2026 February 3rd (Version 0.0.9)
-
 * Added Oak Barrel.
 * Updated Blue Plastic Barrel Sink details.
 * Changed menu and showcase image of Red Barrel.
@@ -25,7 +28,6 @@
 * Changed in all Tank category furniture pages "One Stop Store" into "One Stop Shop".
 
 # 2026 February 1st (Version 0.0.8)
-
 * Updated Mini Generator details.
 * Changed menu and showcase image and added additionally second image of Old Computer.
 * Added Custom Flag.
@@ -43,7 +45,6 @@
 * Changed in all Electronics and Flags category furniture pages "One Stop Store" into "One Stop Shop".
 
 # 2026 January 31st (Version 0.0.7)
-
 * Removed Brown Curtains.
 * Removed Open Small Red Curtains.
 * Removed Short Striped Curtains.
@@ -55,7 +56,6 @@
 * Updated Curtains category to match current game version (0.4.17).
 
 # 2026 January 30th (Version 0.0.6)
-
 * Removed Guitar from Decoration category page. (Developers made into item)
 * Moved Big Quack! into Quest Furniture category.
 * Added Beryllium Reflector.
@@ -75,7 +75,6 @@
 * Changed in all Decoration category furniture pages "One Stop Store" into "One Stop Shop"
 
 # 2026 January 27th (Version 0.0.5)
-
 * Removed White Plate from Clutter category page. (Developers made into item)
 * Added Binder.
 * Added Drying Rack.
@@ -96,7 +95,6 @@
 * Changed in all Clutter category furniture pages "One Stop Store" into "One Stop Shop"
 
 # 2026 January 26th (Version 0.0.4)
-
 * Added Plants category.
 * Added Quest Furniture category.
 * Added 404 page.
@@ -112,13 +110,11 @@
 * Changed in all Chairs category furniture pages "One Stop Store" into "One Stop Shop"
 
 # 2026 January 24th (Version 0.0.3)
-
 * Changed in all Beds category furniture pages "One Stop Store" into "One Stop Shop"
 * Updated Plank Bed production section.
 * Updated Shabby Bed Frame information.
 
 # 2026 January 20th (Version 0.0.2)
-
 * Updated Bathroom category to match current game version (0.4.17).
 * Added Makeshift Shower.
 * Added Towel Stack.
