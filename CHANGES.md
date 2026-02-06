@@ -17,6 +17,11 @@
 # 2026 February 6th (Version 0.1.1)
 * Added Cactus.
 * Unlocked Plants category page.
+* Added Lab Table.
+* Added Round Cafeteria Table.
+* Added Small Glass Coffee Table.
+* Updated Tables category to match current game version (0.4.18).
+* Changed in all Tables category furniture pages "One Stop Store" into "One Stop Shop".
 
 # 2026 February 4th (Version 0.1.0)
 * Updated Small Worn Rug production section.
