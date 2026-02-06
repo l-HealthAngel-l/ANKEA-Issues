@@ -9,10 +9,14 @@
 # UPCOMMING
 
 * Change "One Stop Store" into "One Stop Shop" in all furniture pages.
-* Update whole catalogue to match V0.4.17 Obenseuer player obtainable furniture list and information.
+* Update whole catalogue to match V0.4.18 Obenseuer player obtainable furniture list and information.
 * Add illustrasion to 404 and Spoiler Alert pages.
 * Overhaul completely Letters category page.
-* Add new upcoming distrubitor into page.
+* Add new upcoming distrubitors into page.
+
+# 2026 February 6th (Version 0.1.1)
+* Added Cactus.
+* Unlocked Plants category page.
 
 # 2026 February 4th (Version 0.1.0)
 * Updated Small Worn Rug production section.
