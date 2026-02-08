@@ -15,10 +15,10 @@
 * Add new upcoming distrubitors into page.
 
 
-# 2026 February 7th (Version 0.1.2)
-* Moved Pia's Head Lantern into Quest Furniture category.
-* Updated Sofas, Lights and Signs categories to match current game version (0.4.18).
-* Changed in all Sofas, Lights and Signs category furniture pages "One Stop Store" into "One Stop Shop".
+# 2026 February 8th (Version 0.1.3)
+* Added Small Plank Shelf.
+* Updated Shelves category to match current game version (0.4.18).
+* Changed in all Shelbes category furniture pages "One Stop Store" into "One Stop Shop".
 
 # 2026 February 6th (Version 0.1.1)
 * Added Cactus.
