@@ -30,8 +30,9 @@
 * Added Microwave.
 * Added Modern Refrigerator.
 * Added Stone Fireplace.
-* Updated Growing and Kitchen categories to match current game version (0.4.18).
-* Changed in all Growing and Kitchen category furniture pages "One Stop Store" into "One Stop Shop".
+* Added House Magazine.
+* Updated Growing, Kitchen and Magazines categories to match current game version (0.4.18).
+* Changed in all Growing, Kitchen and Magazines category furniture pages "One Stop Store" into "One Stop Shop".
 
 # 2026 February 8th (Version 0.1.3)
 * Added Small Plank Shelf.
