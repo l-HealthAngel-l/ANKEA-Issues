@@ -14,11 +14,22 @@
 * Overhaul completely Letters category page.
 * Add new upcoming distrubitors into page.
 
+# 2026 February 9th (Version 0.1.4)
+* Added Fume Cabinet.
+* Added Hydroponic Farm.
+* Added Hydroponic Farm With Support.
+* Added Mushroom Growing Cabinet.
+* Added Mushroom Growing Rack.
+* Added Vertical Farm.
+* Added Vertical Farm Box.
+* Changed menu and showcase image of Aquarium and updated details.
+* Updated Growing category to match current game version (0.4.18).
+* Changed in all Growing category furniture pages "One Stop Store" into "One Stop Shop".
 
 # 2026 February 8th (Version 0.1.3)
 * Added Small Plank Shelf.
 * Updated Shelves category to match current game version (0.4.18).
-* Changed in all Shelbes category furniture pages "One Stop Store" into "One Stop Shop".
+* Changed in all Shelves category furniture pages "One Stop Store" into "One Stop Shop".
 
 # 2026 February 7th (Version 0.1.2)
 * Moved Pia's Head Lantern into Quest Furniture category.
