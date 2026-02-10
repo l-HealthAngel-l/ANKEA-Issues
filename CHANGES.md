@@ -14,6 +14,12 @@
 * Overhaul completely Letters category page.
 * Add new upcoming distrubitors into page.
 
+# 2026 February 10th (Version 0.1.5)
+* Added Filing Cabinet.
+* Added Wardrobe.
+* Updated Storage categories to match current game version (0.4.18).
+* Changed in all Storage category furniture pages "One Stop Store" into "One Stop Shop".
+
 # 2026 February 9th (Version 0.1.4)
 * Added Fume Cabinet.
 * Added Hydroponic Farm.
