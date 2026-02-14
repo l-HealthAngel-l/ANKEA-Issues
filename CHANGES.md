@@ -14,6 +14,50 @@
 * Overhaul completely Letters category page.
 * Add new upcoming distrubitors into page.
 
+# 2026 February 14th (Version 0.1.6) (Upcomming)
+* Added A Picture of Your Boyfriend.
+* Added A Picture of Your Girlfriend.
+* Added Boys Painting.
+* Added Bridge Painting.
+* Added Burger Painting.
+* Added Chess Painting.
+* Added Colorful Waves Painting.
+* Added Colorful Woman Painting.
+* Added Dog Painting.
+* Added Fancy Room Painting.
+* Added Grandmothers Painting.
+* Added Green Mushrooms Painting.
+* Added Helsinki Cathedral Painting.
+* Added Horses Painting.
+* Added Koda Painting.
+* Added Kortemäki Painting.
+* Added Kortemäki Painting.
+* Added Kouvola Painting.
+* Added Maria Painting.
+* Added Metro Guy Painting.
+* Added Monstera Painting.
+* Added Moon Painting.
+* Added Mountain Forest Painting.
+* Added Mountain Forest Painting.
+* Added Mustache Man Painting.
+* Added Onions Painting.
+* Added Osmo Girl.
+* Added Puppy Painting.
+* Added Robin Painting.
+* Added SMV Victim Painting.
+* Added Train Painting.
+* Added Train Painting.
+* Added Window Girl Painting.
+* Added Yellow Star Flowers Painting.
+* Added Custom Picture.
+* Added Small Custom Picture.
+* Added Medium Custom Picture.
+* Added Big Landscape Custom Picture.
+* Added Big Potrait Custom Picture.
+* Changed to all old painting listing menu and showcase pictures.
+* Updated Paintings category to match current game version (0.4.18).
+* Changed in all Paintings category furniture pages "One Stop Store" into "One Stop Shop".
+
 # 2026 February 10th (Version 0.1.5)
 * Added Filing Cabinet.
 * Added Wardrobe.
