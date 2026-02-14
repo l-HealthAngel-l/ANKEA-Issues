@@ -14,7 +14,7 @@
 * Overhaul completely Letters category page.
 * Add new upcoming distrubitors into page.
 
-# 2026 February 14th (Version 0.1.6) (Upcomming)
+# 2026 February 14th (Version 0.1.6)
 * Added A Picture of Your Boyfriend.
 * Added A Picture of Your Girlfriend.
 * Added Boys Painting.
