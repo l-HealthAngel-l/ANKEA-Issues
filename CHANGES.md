@@ -14,7 +14,7 @@
 * Overhaul completely Letters category page.
 * Add new upcoming distrubitors into page.
 
-# 2026 February 15th (Version 0.1.7) (Upcoming)
+# 2026 February 15th (Version 0.1.7)
 * Added Copy Machine.
 * Added Distillation Kit.
 * Added Power Hammer.
