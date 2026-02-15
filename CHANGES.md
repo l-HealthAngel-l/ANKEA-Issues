@@ -6,13 +6,24 @@
 * Add Furniture ID.
 * Add Growing/Kitchen/Manufacturing category furniture list which are not owned by Player.
 
-# UPCOMMING
+# UPCOMING
 
 * Change "One Stop Store" into "One Stop Shop" in all furniture pages.
 * Update whole catalogue to match V0.4.18 Obenseuer player obtainable furniture list and information.
 * Add illustrasion to 404 and Spoiler Alert pages.
 * Overhaul completely Letters category page.
 * Add new upcoming distrubitors into page.
+
+# 2026 February 14th (Version 0.1.7) (Upcoming)
+* Added Copy Machine.
+* Added Distillation Kit.
+* Added Power Hammer.
+* Added Printer.
+* Added Sample Analyzer.
+* Added Spices.
+* Added Sterilizer.
+* Updated Manufacturing category to match current game version (0.4.18).
+* Changed in all Manufacturing category furniture pages "One Stop Store" into "One Stop Shop".
 
 # 2026 February 14th (Version 0.1.6)
 * Added A Picture of Your Boyfriend.
