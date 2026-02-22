@@ -11,8 +11,12 @@
 * Change "One Stop Store" into "One Stop Shop" in all furniture pages.
 * Update whole catalogue to match V0.4.18 Obenseuer player obtainable furniture list and information.
 * Add illustrasion to 404 and Spoiler Alert pages.
-* Overhaul completely Letters category page.
 * Add new upcoming distrubitors into page.
+
+# 2026 February 22nd (Version 0.1.8)
+* Unlocked Letters category page.
+* Added completely overhauled 256 Letters.
+* Updated Curtains category to match current game version (0.4.18).
 
 # 2026 February 15th (Version 0.1.7)
 * Added Copy Machine.
