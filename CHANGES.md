@@ -16,7 +16,7 @@
 # 2026 February 22nd (Version 0.1.8)
 * Unlocked Letters category page.
 * Added completely overhauled 256 Letters.
-* Updated Curtains category to match current game version (0.4.18).
+* Updated Letters category to match current game version (0.4.18).
 
 # 2026 February 15th (Version 0.1.7)
 * Added Copy Machine.
