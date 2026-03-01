@@ -12,7 +12,7 @@
 
 # 2026 March 1st (Version 0.1.9)
 * Unlocked License Plates category page.
-* Added completely overhauled 60 Licence Plates.
+* Added completely overhauled 60 License Plates.
 * Updated License Plates category to match current game version (0.4.18).
 
 # 2026 February 22nd (Version 0.1.8)
