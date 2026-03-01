@@ -1,17 +1,19 @@
 # PLANNED
-
-* Update the found in tenement quantity values in the Licence Plates category (Missing Research).
-* Update whole catalogue in distributors section OS Mining Services which furniture pieces are sold which are not (Missing Research).
-* Update some of furniture Salvage/Crafting section with linking to other furniture pieces.
 * Add Furniture ID.
 * Add Growing/Kitchen/Manufacturing category furniture list which are not owned by Player.
+* Add Shroom Girl Body Pillow (When fixed and updated).
+* Add White Body Pillow (When fixed and updated).
 
 # UPCOMING
-
-* Change "One Stop Store" into "One Stop Shop" in all furniture pages.
-* Update whole catalogue to match V0.4.18 Obenseuer player obtainable furniture list and information.
+* Update whole catalogue in distributor section which furniture pieces are sold and where is cheaper.
+* Update the furniture found in tenement and its quantity values.
 * Add illustrasion to 404 and Spoiler Alert pages.
 * Add new upcoming distrubitors into page.
+
+# 2026 March 1st (Version 0.1.9)
+* Unlocked License Plates category page.
+* Added completely overhauled 60 Licence Plates.
+* Updated License Plates category to match current game version (0.4.18).
 
 # 2026 February 22nd (Version 0.1.8)
 * Unlocked Letters category page.
